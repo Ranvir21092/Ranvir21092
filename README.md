@@ -142,8 +142,8 @@ Cybersecurity-focused Computer Science student with strong foundations in backen
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ranvir21092&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Ranvir21092&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ranvir7&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Ranvir7&theme=tokyonight" height="170"/>
 </p>
 
 ---
